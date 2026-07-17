@@ -1,0 +1,12 @@
+[
+  { "code": "SVO", "name": "Шереметьево" },
+  { "code": "DME", "name": "Домодедово" },
+  { "code": "LED", "name": "Пулково" },
+  { "code": "VKO", "name": "Внуково" },
+  { "code": "KUF", "name": "Курумоч" },
+  { "code": "AER", "name": "Сочи" },
+  { "code": "OVB", "name": "Толмачёво" },
+  { "code": "SVX", "name": "Кольцово" },
+  { "code": "KGD", "name": "Храброво" },
+  { "code": "KZN", "name": "Казань" }
+]
